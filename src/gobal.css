@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.itemlist{
+    border: 1px solid black;
+    height: 100px;
+    width: 150px;
+    padding: 5px;
+    margin: 10px;
+}
